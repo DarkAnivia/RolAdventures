@@ -28,7 +28,18 @@
 - [Viuda](./escenas/viuda.md)
     - [La versión de Danica](./escenas/viuda.md#danicaAccount)
     - [El garaje](./escenas/viuda.md#parking)
-
+- [Anexo](./anexo/)
+    - [Altercado](./anexo/lore/altercado.md)
+    - [Angie](./anexo/pjs/angie.md)
+    - [Bridget](./anexo/pjs/bridget.md)
+    - [Chad](./anexo/pjs/chad.md)
+    - [Control](./anexo/pjs/control.md)
+    - [Glen](./anexo/pjs/glen.md)
+    - [Heliopolans](./anexo/lore/heliopolans.md)
+    - [Hugh](./anexo/pjs/hugh.md)
+    - [Justin](./anexo/pjs/justin.md)
+    - [Poderes](./anexo/poderes.md)
+    - [Sonny](./anexo/pjs/sonny.md)
 
 ## Diagrama{diagrama}
 [Índice](#index)

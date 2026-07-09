@@ -5,7 +5,7 @@ Joven miembro del movimiento apasionadamente. Cree que los mutantes son un fase 
 
   Investigacion | Generales | Investigative Power | General Power
   ---------|------|----|--
-  | | Athletics 6 | | [Flight](../poderes.md#vuelo) 2
+  | | Athletics 6 | | [Flight](../poderes.md#fly) 2
   | | Composure 6 | | [Strength](../poderes.md#fuerza) 5
   | | Health 8  | |[Regeneration](../poderes.md#regen) 4
   | | Scuffling 4 

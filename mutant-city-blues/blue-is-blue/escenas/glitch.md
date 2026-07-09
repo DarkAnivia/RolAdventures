@@ -8,7 +8,7 @@ Obtener los ficheros necesitará una dosis de **Bureaucracy**, **Cop talk** o **
     - **Anamorphology**: Suena a [Technokinsesis](../anexo/poderes.md#technokinesis)
     - Si ya se ha visitado a Danica, puede dar pistas sobre el corte de electricidad
     - Technokinesis está fuertemente correlacionado con el poder de artículo 18 (categoría legal para poderes peligrosos o invasivos)[Technopathy](../anexo/poderes.md#technopatia) y [Cognition](../anexo/poderes.md#cognition) que posee Malcom Shandell
-- Cerraduras mecánicas y otras barreras fueron superadas por un soplete o un uso muy concentrado de [Fire projection](../anexo/poderes.md#fire-projection). Otra vez sin alarmas
+- Cerraduras mecánicas y otras barreras fueron superadas por un soplete o parecido (un uso muy concentrado de [Fire projection](../anexo/poderes.md#fire-projection)). Otra vez sin alarmas
 - No se encontrarón huellas en las escenas del crimen pero si manchas de lo que parecían un líquido. Posiblemente un agente de limpieza
     - **Chemistry**: Parece similar a lo que se veía en la muerte de Adrián. La ropa estaba manchada de forma muy similar. Push con **Evidence Collection** o **Anamorphology** sugiere algún poder the [redes](../anexo/poderes.md#webbing). Lo que también explicaría la falta de huellas. Con telarañas podrias abrir puertas y romper vitrinas.
 - Tras varios robos exitosos los guardias fueron interrumpidos por un guardia de seguridad que acabó sufriendo los daños de un fogonazo y quedó aturdido. Los ladrones huyeron. El guardia de seguridad vio al menos 2 personas huyendo y con esto finalizó la serie de robos
