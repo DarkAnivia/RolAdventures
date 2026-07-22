@@ -12,7 +12,7 @@ Dentro Glen está sentado en un taburete con un pc a medio desmontar. Un montón
 **Arquitectura**: Hay una habitación al lado del despacho principal que está muy aislada. Como si quisiera mantenerla caliente. (Castle tiene una colección de insectos exóticos, algunos ilegales y peligrosos)
 
 **Evidence Collection**: Hay un residuo blanquecino pegajoso en varios objetos de la habitación. Como si tuviera [Webbing](../anexo/poderes.md#webbing) y además fuera vago
-    - El residuo parece decaer con el tiempo en algo líquido. Similar a lo descrito en la ropa de [Mulrovey](./cold-case.md) y el [caso glitch](./glitch.md). Sin una muestra reciente no se pueden conectar a Castle con las escenas del crimen.
+    - El residuo parece decaer con el tiempo en algo líquido. Similar a lo descrito en la ropa de [Stefano](./cold-case.md) y el [caso glitch](./glitch.md). Sin una muestra reciente no se pueden conectar a Castle con las escenas del crimen.
 
 ## Entrevistando a Castle p 189
 Castle se pone a la defensiva de inmediato. Mucho tiempo tratando con policías que no han podido encasquetarle nada
@@ -21,8 +21,8 @@ Castle se pone a la defensiva de inmediato. Mucho tiempo tratando con policías 
 Sobre el estudio
 **Glen**:*Sí, fui parte de los primeros estudios mutantes. Una pérdida de tiempo. Ni lo recuerdo*
 
-Sobre Adrian
-**Glen**:*Le recuerdo. Una pena que se comiera la pistola. Claro que las formas en que algunos policias tratan a los mutantes, no me sorprende. Mulrovey sería policía... pero los genes no mienten,¿ no creéis?. Deberíais saberlo, ¿creéis que los otros policias os respaldarán si las cosas se ponen feas? Nah, sólo sois mutis para ellos.*
+Sobre Diego
+**Glen**:*Le recuerdo. Una pena que se comiera la pistola. Claro que las formas en que algunos policias tratan a los mutantes, no me sorprende. Stefano sería policía... pero los genes no mienten,¿ no creéis?. Deberíais saberlo, ¿creéis que los otros policias os respaldarán si las cosas se ponen feas? Nah, sólo sois mutis para ellos.*
 
 Sobre Shandell
 **Glen**: *Lo conocí en el grupo si... y ahora trabajo para él*

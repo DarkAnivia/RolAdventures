@@ -28,6 +28,6 @@ Si los agentes lo atrapan y lo retienen, pueden arrestarlo e interrogarlo
 ## Interrogando a Castle p190{#interrogation}
 Castle se niega a contestar sin su abojado (Gary de nuevo). 
 
-Si se presentan pruebas qeu lo aten al caso Glitch o a la muerte de Adrian Mulrovey 
+Si se presentan pruebas qeu lo aten al caso Glitch o a la muerte de Diego Stefano 
 **Glenn**: *Actué sólo, no se porque fallaron las alarmas ni quien disparó una ráfaga de fuego*
 **Bullshit detector**: Glen está protegiendo a alguien con la confesión. Probablemente a Shandell pero una sospecha no basta

@@ -16,4 +16,4 @@ Malcom montará en un toro para huir, si impacta hará +3 de daño. **Athletics*
 
 ## Repercusiones
 Aunque huir no es prueba de culpabilidad, lanzar una banda de mutantes adoctrinados a atacar a policias nunca funciona con los jueces. Una búsqueda en las oficinas de Shandell revelará pruebas. Lynn también se entrega, resolviendo el Cold Case.
-Sin el respaldo de Shandell, la conspiración que conecta la muerte de Mulrovey con las supuestas acciones gubernamentales anti mutantes pierde tracción. Seguirá como tantas teorias por años
+Sin el respaldo de Shandell, la conspiración que conecta la muerte de Stefano con las supuestas acciones gubernamentales anti mutantes pierde tracción. Seguirá como tantas teorias por años

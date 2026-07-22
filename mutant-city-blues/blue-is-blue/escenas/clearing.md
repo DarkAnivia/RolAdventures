@@ -1,6 +1,6 @@
 ## Resolviendo el caso
 [Índice](../blue-is-blue.md)
-Este final no tiene batallas. Los policias recogen pruebas que conectan a Shandell con crimenes menores pero no los suficiente para culparle de la muerte de Mulrovey. Incluso si confesara Lynn, se trata de un caso que se estirará y a nadie le importan unos robos de hace 10 años.
+Este final no tiene batallas. Los policias recogen pruebas que conectan a Shandell con crimenes menores pero no los suficiente para culparle de la muerte de Stefano. Incluso si confesara Lynn, se trata de un caso que se estirará y a nadie le importan unos robos de hace 10 años.
 
 ## Buscando Shandell Electronics
 

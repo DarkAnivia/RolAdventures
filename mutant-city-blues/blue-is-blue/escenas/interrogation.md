@@ -13,7 +13,7 @@ La super fuerte agitadora Angie Sholter está todavía en custodia después de l
 
 **Interrogation** **Angie**: *Era la primera vez que me manifestaba con el movimiento revolutivo. Soy miembro del grupo más conocido "Alianza Informativa para Evolucionados". Pensaba que el link venía de ellos*
 
-**Photography**: El video es propaganda barata. Muchas cabezas hablando y tergiversando cosas. Alguans escenas muestran la granja de Sandra Pryde. Hay un hilo de teorias conspirativas que sugiere que el instituto Quade está contratado por el gobierno para infectar a mutantes como Adrian Mulrovey. El eslogan es "No te fies de los normies, mutantes bajo amenaza". No hay vínculo a la campaña o a la lista de distribución, solo un enlace a la Alianza Informativa para Evolucionados.
+**Photography**: El video es propaganda barata. Muchas cabezas hablando y tergiversando cosas. Alguans escenas muestran la granja de Sandra Pryde. Hay un hilo de teorias conspirativas que sugiere que el instituto Quade está contratado por el gobierno para infectar a mutantes como Diego Stefano. El eslogan es "No te fies de los normies, mutantes bajo amenaza". No hay vínculo a la campaña o a la lista de distribución, solo un enlace a la Alianza Informativa para Evolucionados.
 
 **Data Recovery** o **Traffic Analysis**: El video fue enviado desde los servidores de Alianza Informativa para Evolucionados per o ellos niegan haberlo enviado, fueron hackeados. La Alianza Informativa para Evolucionados no creeque el factor de riesgo genético sea cualquier otra cosa que condiciones genéticas. 
 
@@ -31,4 +31,4 @@ Angie mira confusa a los agentes.
 
 **Gary**: *Me contrató [Lynn Parsons](./all-fired-up.md) de la Alianza Informativa para Evolucionados.*
 
-Si Angie coopera con Gary, ella saldrá bajo fianza. Si la sguen, verán que la deja en una [tienda de electrónica](./the-spider.md)
+Si Angie coopera con Gary, ella saldrá bajo fianza. Si la siguen, verán que la deja en una [tienda de electrónica](./the-spider.md)

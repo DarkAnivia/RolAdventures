@@ -15,8 +15,8 @@ Sandra es guapa, incluso con sus colmillos. Sospecha de la policia y se enerva a
 Personal
 **Sandra**: *Fui una de las primeras mutantes. Los colmillos vinieron primero pero puedo hacer otras cosas... como matar gente por solo estar cerca. Mi propia hermana desarrolló leucemia y murió de ello. ¡37 personas cercanas fueron diagnosticadas con enfermedades con problmeas de larga duración se pueden remontar a mi!*
 
-Sobre Adrian
-**Sandra**: *Recuerdo a Adrian. Pasamos juntos por los primeros cambios juntos. Fue estando con él que descubrí que puedo absorber poderes [Absorption](../anexo/poderes.md#absorption). Buenos tiempos... en realidad no, eran unos tiempo de mierda pero él era majo*
+Sobre Diego
+**Sandra**: *Recuerdo a Diego. Pasamos juntos por los primeros cambios juntos. Fue estando con él que descubrí que puedo absorber poderes [Absorption](../anexo/poderes.md#absorption). Buenos tiempos... en realidad no, eran unos tiempo de mierda pero él era majo*
 
 **Sandra**: *Tuve una aventura con él. Estábamos asustados y confundidos. Nadie nos entendia, solo nosotros... luego se disparó*
 

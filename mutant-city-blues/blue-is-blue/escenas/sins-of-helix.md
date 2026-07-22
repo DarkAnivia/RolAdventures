@@ -16,8 +16,8 @@ Cada uno de vosotros lleva un [agente de control](../anexo/pjs/control.md)
 Una manifestación intensa pero dentro de los parámetros aceptables. Hoy toca ganarse el pan y asegurarse que no hay problemas.
 
  - **Popular Culture**: Hay rumores que dicen que el gobierno o algun otro organismo planea matar a los mutantes desde los primeros dias de la gripe fantasma
- - ***Core*** Se menciona a *Adrian Mulberry*.
- - **Streetwise o Interrogación**: Mulverry descubrió el complot y fue asesinado para cubrirlo.
+ - ***Core*** Se menciona a *Diego Stefano*.
+ - **Streetwise o Interrogación**: Stefano descubrió el complot y fue asesinado para cubrirlo.
 
 
 De pronto una joven ( [*Angie Sholter*](../anexo/pjs.md#angie){#flashAngie} ) empieza a gritar

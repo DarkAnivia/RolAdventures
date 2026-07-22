@@ -37,7 +37,7 @@ Sobre los videos
 Sobre el caso Glitch
 **Shandell**: *Un caso sonado si... ¿y me lo menciona por que?*
 
-Sobre la muerte de Adrian
+Sobre la muerte de Diego
 **Shandell**: *Una verdadera lástima, era muy buena persona*
 
 ## Volveremos
@@ -47,5 +47,5 @@ Para arrestar a Shandell se necesitan evidencias o testimonios que lo aten a los
 ## Arrestando a Shandell
 [Índice](../blue-is-blue.md)
 La mejor baza es Lynn Parsons. Si ella es arrestada, puede implicara Shandell en el caso Glinch.
-Los agentes pueden sospechar de su participación en el asesinato de Mulrovey y/ la propaganda pero no tendrán pruebas suficientes para demostrarlo.
+Los agentes pueden sospechar de su participación en el asesinato de Stefano y/ la propaganda pero no tendrán pruebas suficientes para demostrarlo.
 Opcionalmente si quieres un final conclusivo siguen [La gran Mentira](./the-big-lie.md) cuando lo intentan arrestar

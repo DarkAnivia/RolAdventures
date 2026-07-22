@@ -18,7 +18,7 @@ Preguntada por el cambio
 Sobre el grupo de investigación
 **Sandra**: *Su tiempo con Gaushell fue durante unos momentos turbulentos. Prefiero no hablar de ellos*
 
-Sobre Adrian
+Sobre Diego
 **Sandra**: *Lo recuerdo principalmente por Sandra. Todavía hablamos sobre él a veces. No sabía que era poli hasta después de su muerte*
 
 Sobre Gary, abogado de Angie
@@ -38,10 +38,10 @@ Para que admita su involucración en el caso Glitch hay que presionarla
 - Push con **Interrogation** alegando que tenemos pruebas
 **Sandra**: *Eso son acusaciones graves, no hablaré sin mi abogado*
 
-- Push con **Interrogation** alegando que Mulrovey fue asesinado 
+- Push con **Interrogation** alegando que Stefano fue asesinado 
 **Sandra**: *No sabía que fue asesinado ¿no fue un suicidio?*
 
-- Obteniendo pruebas de una de sus obras de arte y usando **Chemistry** o **Energy Residue Analysis** para compararla con los resto de la pistola del [caso Glitch](./glich.md) o presentando evidencias de la conexión entre el caso Glitch y las escena del asesinato de Mulrovey
+- Obteniendo pruebas de una de sus obras de arte y usando **Chemistry** o **Energy Residue Analysis** para compararla con los resto de la pistola del [caso Glitch](./glich.md) o presentando evidencias de la conexión entre el caso Glitch y las escena del asesinato de Stefano
 Descompuesta, deprimida, sollozando
 **Sandra**: *Yo, Castle y Shandell perpetrámos los robos del caso Glitch. Castle tiraría telarañas y haría la parte bruta del trabajo, yo cortaba los candados y Shandell se encarga de alarmas. Él simplemente las miraba y se apagaban*
 
